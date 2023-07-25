@@ -18,7 +18,7 @@
 [class*='col-md-']
 {
     float: left;
-    border: 1px solid rgb(4, 4, 4);
+    
 }
 
 .bg-gray{
@@ -49,8 +49,12 @@
 .mr-5{ margin-left: 5px;}
 .float-left{ float: left;}
 .content-icon{
-    margin-top: 15px;
+    margin-top: 25px;
 }
 .content-content{
     padding-left: 10px;
+    font-size: small;
+}
+p{
+    line-height: 26px;
 }
